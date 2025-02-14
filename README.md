@@ -2,7 +2,6 @@
 
 A interactive Valentine's Day chocolate box web application where users can:
 - Click chocolates to reveal sweet messages
-- Share messages with others
 - Refill the box to start over
 - Enjoy animations and sound effects
 
